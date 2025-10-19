@@ -1,21 +1,80 @@
-MIT License
+Wsla Web Source-Available License v1.0
 
-Copyright (c) 2025 wsla-api
+(Non-Commercial • No-SaaS • Backend-Use Restricted)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025 wsla-Tech (wsla-api)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Definitions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+“Software” means the web client code contained in this repository only. It excludes any backend/server code, infrastructure, paid services, and brand assets (logos, names, domains).
+
+“You” means any individual or entity exercising permissions granted by this License.
+
+“Commercial Use” means use intended for or directed toward commercial advantage or monetary compensation.
+
+2. Grant
+
+Subject to the terms below, wsla-Tech grants You a non-exclusive, worldwide, royalty-free, revocable license to:
+
+use, view, copy, modify, and create derivative works of the Software; and
+
+redistribute the Software and Your modifications,
+solely for evaluation, personal use, internal business use, and contribution back to this project.
+
+3. Restrictions
+
+You must not:
+
+SaaS/Hosting. Offer the Software (modified or not) as a hosted service or make it publicly accessible for third parties, except for short-term demo/evaluation.
+
+Commercial Use. Use the Software for Commercial Use without a separate written commercial license from wsla-Tech.
+
+Backend Circumvention. Use the Software to replace, clone, or circumvent wsla-Tech’s proprietary backend, or to connect it to any backend other than (a) Your own local dev/testing backend for evaluation, or (b) a backend expressly authorized in writing by wsla-Tech.
+
+Competing Service. Use the Software to build or operate a competing WhatsApp-API-as-a-service or similar product.
+
+Sublicensing. Sublicense the Software or its rights, except as part of permitted redistribution under Section 4.
+
+Trademarks/Brand. Use wsla-Tech names, logos, or trademarks except for factual attribution. No rights in trademarks are granted.
+
+Removal of Notices. Remove or alter copyright, license, or attribution notices.
+
+Undisclosed Changes. Distribute modified versions without clearly documenting that You modified the Software and the date of modification.
+
+4. Redistribution Conditions
+
+Any redistribution (source or binary) must:
+
+include this License and copyright notice;
+
+include a NOTICE file listing significant changes (if any) and attribution to wsla-Tech; and
+
+not misrepresent Your version as the official wsla-Tech release.
+
+5. Contributions
+
+By submitting code, docs, or other materials to this repository, You license Your contributions under this same License and represent that You have the right to do so. “Inbound = Outbound.”
+
+6. Third-Party Code
+
+Third-party dependencies remain under their own licenses. Nothing in this License overrides those terms.
+
+7. Term & Termination
+
+This License terminates automatically if You breach it. If You cease the breach within 30 days of notice from wsla-Tech, rights may be reinstated at wsla-Tech’s discretion. Sections 3, 6–10 survive termination.
+
+8. No Warranty (AS IS)
+
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WSLA-TECH AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, NOR FOR ANY LOSS OF PROFITS OR REVENUE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. Governing Law
+
+This License is governed by the laws of the United Arab Emirates. Exclusive venue and jurisdiction shall lie in the courts of Dubai, UAE.
+
+11. Commercial Licensing
+
+For commercial, SaaS, or authorized backend use, contact: legal@wsla.tech
