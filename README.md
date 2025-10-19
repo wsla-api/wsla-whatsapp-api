@@ -17,5 +17,5 @@ React, Tailwind CSS, Node.js, Fastify, WebSocket, Baileys, MySQL 8, Cloudflare, 
 
 ### Contact
 - Email: api.wsla@gmail.com
-- Phone: +971-971522450678
+- Phone: +971522450678
 - Location: UAE (Dubai/Ajman) — Available for remote
